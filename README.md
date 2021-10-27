@@ -1,1 +1,1 @@
-# Environment for Dynamic Programming on MPD
+# Environment for Dynamic Programming on MDP
